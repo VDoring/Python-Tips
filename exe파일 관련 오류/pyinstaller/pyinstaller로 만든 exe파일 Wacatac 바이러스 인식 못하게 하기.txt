@@ -1,0 +1,11 @@
+글 링크:
+https://jasmine125.tistory.com/1009
+
+
+Pyinstaller 설치 사이트(Github Release에서 다운받아 압축을 푼 폴더 그대로 C드라이브에 놓는다. 아님 자신이 원하는 위치에도 가능):
+https://github.com/pyinstaller/pyinstaller
+
+PyWin32는 그냥 pip를 사용해서 다운받기
+일단 링크:
+https://sourceforge.net/projects/pywin32/files/
+https://github.com/mhammond/pywin32
